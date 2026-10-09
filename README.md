@@ -122,14 +122,21 @@ App（GUI / 命令行 / 桌面打包）
 
 ## 界面
 
-> 截图待补充（见 `screenshots/`）
+**主界面 · 11 系统功力总览**（每张卡片为一个养成系统，展示当前功力与进度）
 
-| 界面 | 说明 |
-|---|---|
-| `screenshots/overview.png` | 主界面：角色属性总览（功力九宫格） |
-| `screenshots/advice.png` | 决策工作台：升级建议与可信度 |
-| `screenshots/solver.png` | 求解器：升级 ROI 排序与路径推荐 |
-| `screenshots/buff.png` | Buff 管理：叠加与优先级 |
+![总览](screenshots/overview.png)
+
+**决策工作台 · 养成建议**（当前状态 → 筛选条件 → 决策卡 → 备选方案 → 结果可信度）
+
+![养成建议](screenshots/advice.png)
+
+**对决分析 · PVE/PVP + Buff 逐项模拟**
+
+![对决分析](screenshots/duel.png)
+
+**系统专页 · 装备养成**（部位实例 / 套装属性 / 兑换）
+
+![装备养成](screenshots/equipment.png)
 
 ---
 
